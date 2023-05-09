@@ -1,0 +1,245 @@
+[{
+    "id":1,
+    "name":"Adidas shoe",
+    "br":"Adidas",
+    "src":"/adshoe.jpg",
+    "price":350,
+    "category":"shoe",
+    "original":500
+    
+},
+{
+    "id":2,
+    "name":"Adidas shoe",
+    "br":"Adidas",
+    "src":"/adshoe2.jpg",
+    "price":550,
+    "category":"shoe",
+    "original":700
+    
+},
+{
+    "id":3,
+    "name":"Adidas shoe",
+    "br":"Adidas",
+    "src":"/adshoe3.jpeg",
+    "price":650,
+    "category":"shoe",
+    "original":900
+},
+{
+    "id":4,
+    "name":"Adidas shirt",
+    "br":"Adidas",
+    "src":"/adshirt.jpg",
+    "price":450,
+    "category":"shirt",
+    "original":900
+},
+{
+    "id":5,
+    "name":"Adidas shirt",
+    "br":"Adidas",
+    "src":"/adshirt2.jpg",
+    "price":650,
+    "category":"shirt",
+    "original":900
+},
+{
+    "id":6,
+    "name":"Adidas shirt",
+    "br":"Adidas",
+    "src":"/adshirt3.jpg",
+    "price":750,
+    "category":"shirt",
+    "original":1100
+},
+{
+    "id":7,
+    "name":"Adidas pant",
+    "br":"Adidas",
+    "src":"/adidaspant.jpg",
+    "price":399,
+    "category":"pant",
+    "original":900
+},
+{
+    "id":8,
+    "name":"Adidas pant",
+    "br":"Adidas",
+    "src":"/adidaspant2.jpg",
+    "price":599,
+    "category":"pant",
+    "original":1000
+},
+{
+    "id":9,
+    "name":"Adidas pant",
+    "br":"Adidas",
+    "src":"/adidaspant3.jpg",
+    "price":699,
+    "category":"pant",
+    "original":1100
+},
+{
+    "id":10,
+    "name":"zara shoe",
+    "br":"zara",
+    "src":"/zarashoe1.jpg",
+    "price":679,
+    "category":"shoe",
+    "original":1170
+},
+{
+    "id":11,
+    "name":"zara shoe",
+    "br":"zara",
+    "src":"/zarashoe2.jpg",
+    "price":479,
+    "category":"shoe",
+    "original":770
+},
+{
+    "id":12,
+    "name":"zara shoe",
+    "br":"zara",
+    "src":"/zarashoe3.jpg",
+    "price":579,
+    "category":"shoe",
+    "original":970
+},
+{
+    "id":13,
+    "name":"zara shirt",
+    "br":"zara",
+    "src":"/zarashirt.jpg",
+    "price":559,
+    "category":"shirt",
+    "original":1170
+},
+{
+    "id":14,
+    "name":"zara shirt",
+    "br":"zara",
+    "src":"/zarashirt2.jpg",
+    "price":759,
+    "category":"shirt",
+    "original":970
+},{
+    "id":15,
+    "name":"zara shirt",
+    "br":"zara",
+    "src":"/zarashirt3.jpg",
+    "price":399,
+    "category":"shirt",
+    "original":970
+},
+{
+    "id":16,
+    "name":"zara pant",
+    "br":"zara",
+    "src":"/zarapant.jpg",
+    "price":699,
+    "category":"pant",
+    "original":1970
+},
+{
+    "id":17,
+    "name":"zara pant",
+    "br":"zara",
+    "src":"/zarapant2.jpg",
+    "price":699,
+    "category":"pant",
+    "original":1470
+},
+{
+    "id":18,
+    "name":"zara pant",
+    "br":"zara",
+    "src":"/zarapant3.jpg",
+    "price":399,
+    "category":"pant",
+    "original":1270
+},
+{
+    "id":19,
+    "name":"reebook shoe",
+    "br":"reebook",
+    "src":"/rebookshoe.jpg",
+    "price":379,
+    "category":"shoe",
+    "original":870
+},
+{
+    "id":20,
+    "name":"reebook shoe",
+    "br":"reebook",
+    "src":"/rebookshoe2.jpg",
+    "price":779,
+    "category":"shoe",
+    "original":1470
+},
+{
+    "id":21,
+    "name":"reebook shoe",
+    "br":"reebook",
+    "src":"/rebookshoe3.jpg",
+    "price":599,
+    "category":"shoe",
+    "original":1190
+},
+{
+    "id":22,
+    "name":"reebook shirt",
+    "br":"reebook",
+    "src":"/rebookshirt.jpg",
+    "price":499,
+    "category":"shirt",
+    "original":900
+},
+{
+    "id":23,
+    "name":"reebook shirt",
+    "br":"reebook",
+    "src":"/rebookshirt2.jpg",
+    "price":799,
+    "category":"shirt",
+    "original":1100
+},
+{
+    "id":24,
+    "name":"reebook shirt",
+    "br":"reebook",
+    "src":"/rebookshirt3.jpg",
+    "price":699,
+    "category":"shirt",
+    "original":950
+},
+{
+    "id":25,
+    "name":"reebook pant",
+    "br":"reebook",
+    "src":"/rebookpant.jpg",
+    "price":699,
+    "category":"pant",
+    "original":950
+},
+{
+    "id":26,
+    "name":"reebook pant",
+    "br":"reebook",
+    "src":"/rebookpant2.jpg",
+    "price":499,
+    "category":"pant",
+    "original":750
+},
+{
+    "id":27,
+    "name":"reebook pant",
+    "br":"reebook",
+    "src":"/rebookpant3.jpg",
+    "price":299,
+    "category":"pant",
+    "original":500
+}
+]
